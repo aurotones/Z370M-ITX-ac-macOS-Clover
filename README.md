@@ -36,7 +36,7 @@ See more at: https://ark.intel.com/content/www/us/en/ark/products
 * Sleep (Note: Automatically wakes up for few seconds and sleeps back itself)
 * Audio
 * NVMe SSD
-* Sidecar (You may need compatible Wifi and Bluetooth module)
+* Sidecar (You may need compatible Wifi and Bluetooth module and working iGPU)
 
 The motherboard's built-in Bluetooth and Wifi module does NOT work with macOS.
 You will need to get a compatible module for the M.2 slot, or use a USB
