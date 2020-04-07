@@ -31,8 +31,9 @@ See more at: https://ark.intel.com/content/www/us/en/ark/products
 * Turn iGPU dual monitor on in BIOS to use Sidecar with AMD GPU
 
 ## Working
-* Displayport Dual 4k monitors
+* GPU
 * APFS
+* Ethernet
 * Sleep (Note: Automatically wakes up for few seconds and sleeps back itself)
 * Audio
 * NVMe SSD
