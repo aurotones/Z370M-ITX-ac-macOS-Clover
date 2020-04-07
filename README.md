@@ -28,10 +28,10 @@ See more at: https://ark.intel.com/content/www/us/en/ark/products
 * SmUUID and Serial Number generation for iMessage. Search the forums!
 
 ## Optional
-* Turn iGPU dual monitor on in BIOS to use Sidecar with AMD GPU
+* Turn iGPU dual monitor on in BIOS to use Sidecar with AMD GPU or any other compatible external GPU
 
 ## Working
-* GPU
+* Dual GPU (EGPU + iGPU)
 * APFS
 * Ethernet
 * Sleep (Note: Automatically wakes up for few seconds and sleeps back itself)
@@ -42,3 +42,6 @@ See more at: https://ark.intel.com/content/www/us/en/ark/products
 The motherboard's built-in Bluetooth and Wifi module does NOT work with macOS.
 You will need to get a compatible module for the M.2 slot, or use a USB
 Bluetooth dongle.
+
+## Issues or Bug reporting
+Make an issue if you find a bug or a problem specifically for this hardware. Also if you found the solution, pull requests are welcome!
