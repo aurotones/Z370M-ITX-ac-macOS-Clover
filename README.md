@@ -6,7 +6,7 @@ https://github.com/heisian/Z370M-ITX-AC-macOS
 ## macOS version
 `10.15.4 (19E266)`
 
-## Note
+## Note for people using iGPU or Sidecar
 Intel UHD 630 device ID is different in some CPUs so you might need to change the device ID according to your CPU.
 Example:
 ```
