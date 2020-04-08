@@ -1,5 +1,5 @@
-# Z370M-ITX/ac macOS Catalina
-A working clover configuration for Z370M-ITX/ac
+# ASRock Z370M-ITX/ac macOS Catalina
+A working clover configuration for ASRock Z370M-ITX/ac
 Inspired from heisian's configuration:<br>
 https://github.com/heisian/Z370M-ITX-AC-macOS
 
