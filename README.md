@@ -12,6 +12,7 @@ Example:
 ```
 i7-8700K (UHD 630)        = 0x3E928086
 i3-8100  (UHD 630)        = 0x3E918086
+i9-9900K (UHD 630)        = 0x3E988086
 ```
 See more at: https://ark.intel.com/content/www/us/en/ark
 
