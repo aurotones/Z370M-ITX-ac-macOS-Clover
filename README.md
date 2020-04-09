@@ -7,13 +7,13 @@ https://github.com/heisian/Z370M-ITX-AC-macOS
 `10.15.4 (19E266)`
 
 ## Note for people using iGPU or Sidecar
-Intel UHD 630 device ID is different in some CPUs so you might need to change the device ID according to your CPU.
+Intel UHD 630 device ID is different in some CPUs so you might need to change the device ID according to your CPU.<br>
 Example:
 ```
 i7-8700K (UHD 630)        = 0x3E928086
 i3-8100  (UHD 630)        = 0x3E918086
 ```
-See more at: https://ark.intel.com/content/www/us/en/ark/products
+See more at: https://ark.intel.com/content/www/us/en/ark
 
 ## System Specs
 * Motherboard: ASRock Z370M-ITX/ac
