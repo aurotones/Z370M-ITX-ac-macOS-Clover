@@ -65,7 +65,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 darkwake=0 alcid=99 -alcbeta -disablegfxfirmware -wegbeta</string>
+		<string>dart=0 darkwake=0 alcid=99 -alcbeta -disablegfxfirmware igfxonln=1</string>
 		<key>DefaultVolume</key>
 		<string>macOS</string>
 		<key>HibernationFixup</key>
