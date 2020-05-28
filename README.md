@@ -3,6 +3,9 @@ A working clover configuration for ASRock Z370M-ITX/ac
 Inspired from heisian's configuration:<br>
 https://github.com/heisian/Z370M-ITX-AC-macOS
 
+This configuration isn't being maintained regularly but OpenCore. Check it out! <br>
+https://github.com/replecta/Z370M-ITX-ac-macOS-OpenCore
+
 ## macOS version
 `10.15.4 (19E266)`
 
@@ -45,4 +48,4 @@ You will need to get a compatible module for the M.2 slot, or use a USB
 Bluetooth dongle.
 
 ## Issues or Bug reporting
-Make an issue if you find a bug or a problem specifically for this hardware. Also if you found the solution, pull requests are welcome!
+This configuration isn't being maintained regularly but if you found the solution, pull requests are welcome!
