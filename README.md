@@ -48,4 +48,4 @@ You will need to get a compatible module for the M.2 slot, or use a USB
 Bluetooth dongle.
 
 ## Issues or Bug reporting
-This configuration isn't being maintained regularly but if you found the solution, pull requests are welcome!
+This configuration isn't maintained regularly unlike OpenCore but if you found the solution, pull requests are welcome!
